@@ -1,0 +1,10 @@
+console_print: False
+email:
+  attachment: stocks.csv
+  attachments: False
+  enabled: True
+  subject: JSquared - Investment Summary
+  title: ''
+  to: justin.vega27@gmail.com,judebarakat99@gmail.com
+log_filename: DailyStockEmailer.log
+debug_level: INFO
