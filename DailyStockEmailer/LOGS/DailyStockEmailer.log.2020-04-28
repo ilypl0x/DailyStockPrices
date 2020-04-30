@@ -1,0 +1,248 @@
+2020-04-28 11:27:15.000065 - INFO - Successfully opened and read data from stocks.csv
+2020-04-28 11:27:15.000065 - INFO - Adding Stock: JPM to data dictionary.
+2020-04-28 11:27:15.001063 - INFO - Adding Stock: F to data dictionary.
+2020-04-28 11:27:15.001063 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.001063 - INFO - Adding Stock: DIS to data dictionary.
+2020-04-28 11:27:15.001063 - INFO - Adding Stock: DAL to data dictionary.
+2020-04-28 11:27:15.002059 - INFO - Adding Stock: AXP to data dictionary.
+2020-04-28 11:27:15.002059 - INFO - Adding Stock: V to data dictionary.
+2020-04-28 11:27:15.002059 - INFO - Stock: DIS already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.003081 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.003081 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.004054 - INFO - Adding Stock: AAPL to data dictionary.
+2020-04-28 11:27:15.004054 - INFO - Adding Stock: GS to data dictionary.
+2020-04-28 11:27:15.004054 - INFO - Adding Stock: VTI to data dictionary.
+2020-04-28 11:27:15.004054 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.005051 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.005051 - INFO - Stock: V already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.006067 - INFO - Stock: F already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.006067 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.006067 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.007070 - INFO - Adding Stock: SBUX to data dictionary.
+2020-04-28 11:27:15.007070 - INFO - Stock: SBUX already exists in data dictionary, appending information accordingly.
+2020-04-28 11:27:15.007070 - INFO - VWAP calculated successfully for Stock: JPM
+2020-04-28 11:27:15.008043 - INFO - VWAP calculated successfully for Stock: F
+2020-04-28 11:27:15.008043 - INFO - VWAP calculated successfully for Stock: DIS
+2020-04-28 11:27:15.008043 - INFO - VWAP calculated successfully for Stock: DAL
+2020-04-28 11:27:15.009041 - INFO - VWAP calculated successfully for Stock: AXP
+2020-04-28 11:27:15.009041 - INFO - VWAP calculated successfully for Stock: V
+2020-04-28 11:27:15.009041 - INFO - VWAP calculated successfully for Stock: AAPL
+2020-04-28 11:27:15.010047 - INFO - VWAP calculated successfully for Stock: GS
+2020-04-28 11:27:15.010047 - INFO - VWAP calculated successfully for Stock: VTI
+2020-04-28 11:27:15.010047 - INFO - VWAP calculated successfully for Stock: SBUX
+2020-04-28 11:27:15.010047 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/JPM
+2020-04-28 11:27:15.717118 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/F
+2020-04-28 11:27:16.405037 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/DIS
+2020-04-28 11:27:17.275203 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/DAL
+2020-04-28 11:27:18.035933 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/AXP
+2020-04-28 11:27:18.906096 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/V
+2020-04-28 11:27:19.665862 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/AAPL
+2020-04-28 11:27:20.488467 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/GS
+2020-04-28 11:27:21.175657 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/VTI
+2020-04-28 11:27:21.779336 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/SBUX
+2020-04-28 11:27:22.706053 - INFO - Email is not enabled.
+2020-04-28 11:28:06.764407 - INFO - Successfully opened and read data from stocks.csv
+2020-04-28 11:28:06.764407 - INFO - Adding Stock: JPM to data dictionary.
+2020-04-28 11:28:06.765381 - INFO - Adding Stock: F to data dictionary.
+2020-04-28 11:28:06.765381 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.765381 - INFO - Adding Stock: DIS to data dictionary.
+2020-04-28 11:28:06.765381 - INFO - Adding Stock: DAL to data dictionary.
+2020-04-28 11:28:06.766415 - INFO - Adding Stock: AXP to data dictionary.
+2020-04-28 11:28:06.766415 - INFO - Adding Stock: V to data dictionary.
+2020-04-28 11:28:06.766415 - INFO - Stock: DIS already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.767375 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.767375 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.767375 - INFO - Adding Stock: AAPL to data dictionary.
+2020-04-28 11:28:06.768392 - INFO - Adding Stock: GS to data dictionary.
+2020-04-28 11:28:06.768392 - INFO - Adding Stock: VTI to data dictionary.
+2020-04-28 11:28:06.768392 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.768392 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.769370 - INFO - Stock: V already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.769370 - INFO - Stock: F already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.769370 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.770367 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.770367 - INFO - Adding Stock: SBUX to data dictionary.
+2020-04-28 11:28:06.770367 - INFO - Stock: SBUX already exists in data dictionary, appending information accordingly.
+2020-04-28 11:28:06.771364 - INFO - VWAP calculated successfully for Stock: JPM
+2020-04-28 11:28:06.771364 - INFO - VWAP calculated successfully for Stock: F
+2020-04-28 11:28:06.771364 - INFO - VWAP calculated successfully for Stock: DIS
+2020-04-28 11:28:06.771364 - INFO - VWAP calculated successfully for Stock: DAL
+2020-04-28 11:28:06.772361 - INFO - VWAP calculated successfully for Stock: AXP
+2020-04-28 11:28:06.772361 - INFO - VWAP calculated successfully for Stock: V
+2020-04-28 11:28:06.772361 - INFO - VWAP calculated successfully for Stock: AAPL
+2020-04-28 11:28:06.773378 - INFO - VWAP calculated successfully for Stock: GS
+2020-04-28 11:28:06.773378 - INFO - VWAP calculated successfully for Stock: VTI
+2020-04-28 11:28:06.773378 - INFO - VWAP calculated successfully for Stock: SBUX
+2020-04-28 11:28:06.773378 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/JPM
+2020-04-28 11:28:07.645562 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/F
+2020-04-28 11:28:08.301095 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/DIS
+2020-04-28 11:28:08.963205 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/DAL
+2020-04-28 11:28:09.698105 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/AXP
+2020-04-28 11:28:10.723925 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/V
+2020-04-28 11:28:11.518919 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/AAPL
+2020-04-28 11:28:12.242319 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/GS
+2020-04-28 11:28:13.013620 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/VTI
+2020-04-28 11:28:13.718884 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/SBUX
+2020-04-28 11:28:14.486492 - INFO - Email is enabled - preparing to send.
+2020-04-28 11:28:16.139372 - INFO - Email successfully sent to ['justin.vega27@gmail.com', 'judebarakat99@gmail.com']
+2020-04-28 11:58:35.617741 - INFO - Successfully opened and read data from stocks.csv
+2020-04-28 11:58:35.618738 - INFO - Adding Stock: JPM to data dictionary.
+2020-04-28 11:58:35.618738 - INFO - Adding Stock: F to data dictionary.
+2020-04-28 11:58:35.618738 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.619735 - INFO - Adding Stock: DIS to data dictionary.
+2020-04-28 11:58:35.619735 - INFO - Adding Stock: DAL to data dictionary.
+2020-04-28 11:58:35.619735 - INFO - Adding Stock: AXP to data dictionary.
+2020-04-28 11:58:35.620734 - INFO - Adding Stock: V to data dictionary.
+2020-04-28 11:58:35.620734 - INFO - Stock: DIS already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.620734 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.620734 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.621730 - INFO - Adding Stock: AAPL to data dictionary.
+2020-04-28 11:58:35.621730 - INFO - Adding Stock: GS to data dictionary.
+2020-04-28 11:58:35.621730 - INFO - Adding Stock: VTI to data dictionary.
+2020-04-28 11:58:35.622727 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.622727 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.622727 - INFO - Stock: V already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.623750 - INFO - Stock: F already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.623750 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.623750 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.623750 - INFO - Adding Stock: SBUX to data dictionary.
+2020-04-28 11:58:35.624723 - INFO - Stock: SBUX already exists in data dictionary, appending information accordingly.
+2020-04-28 11:58:35.624723 - INFO - VWAP calculated successfully for Stock: JPM
+2020-04-28 11:58:35.624723 - INFO - VWAP calculated successfully for Stock: F
+2020-04-28 11:58:35.625720 - INFO - VWAP calculated successfully for Stock: DIS
+2020-04-28 11:58:35.625720 - INFO - VWAP calculated successfully for Stock: DAL
+2020-04-28 11:58:35.625720 - INFO - VWAP calculated successfully for Stock: AXP
+2020-04-28 11:58:35.626740 - INFO - VWAP calculated successfully for Stock: V
+2020-04-28 11:58:35.626740 - INFO - VWAP calculated successfully for Stock: AAPL
+2020-04-28 11:58:35.626740 - INFO - VWAP calculated successfully for Stock: GS
+2020-04-28 11:58:35.626740 - INFO - VWAP calculated successfully for Stock: VTI
+2020-04-28 11:58:35.627714 - INFO - VWAP calculated successfully for Stock: SBUX
+2020-04-28 11:58:35.627714 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/JPM
+2020-04-28 11:58:36.432521 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/F
+2020-04-28 11:58:37.087641 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/DIS
+2020-04-28 11:58:37.646527 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/DAL
+2020-04-28 11:58:38.288013 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/AXP
+2020-04-28 11:58:39.060892 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/V
+2020-04-28 11:58:39.802623 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/AAPL
+2020-04-28 11:58:40.450198 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/GS
+2020-04-28 11:58:41.196452 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/VTI
+2020-04-28 11:58:41.852700 - INFO - Getting Stock data from URL: https://in.finance.yahoo.com/quote/SBUX
+2020-04-28 11:58:42.594119 - INFO - Email is enabled - preparing to send.
+2020-04-28 12:31:44.172912 - INFO - Successfully opened and read data from stocks.csv
+2020-04-28 12:31:44.173910 - INFO - Adding Stock: JPM to data dictionary.
+2020-04-28 12:31:44.173910 - INFO - Adding Stock: F to data dictionary.
+2020-04-28 12:31:44.174907 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.174907 - INFO - Adding Stock: DIS to data dictionary.
+2020-04-28 12:31:44.174907 - INFO - Adding Stock: DAL to data dictionary.
+2020-04-28 12:31:44.175905 - INFO - Adding Stock: AXP to data dictionary.
+2020-04-28 12:31:44.175905 - INFO - Adding Stock: V to data dictionary.
+2020-04-28 12:31:44.175905 - INFO - Stock: DIS already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.176914 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.176914 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.176914 - INFO - Adding Stock: AAPL to data dictionary.
+2020-04-28 12:31:44.177901 - INFO - Adding Stock: GS to data dictionary.
+2020-04-28 12:31:44.177901 - INFO - Adding Stock: VTI to data dictionary.
+2020-04-28 12:31:44.177901 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.177901 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.178898 - INFO - Stock: V already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.178898 - INFO - Stock: F already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.178898 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.179895 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.179895 - INFO - Adding Stock: SBUX to data dictionary.
+2020-04-28 12:31:44.179895 - INFO - Stock: SBUX already exists in data dictionary, appending information accordingly.
+2020-04-28 12:31:44.180892 - INFO - VWAP calculated successfully for Stock: JPM
+2020-04-28 12:31:44.180892 - INFO - VWAP calculated successfully for Stock: F
+2020-04-28 12:31:44.180892 - INFO - VWAP calculated successfully for Stock: DIS
+2020-04-28 12:31:44.181889 - INFO - VWAP calculated successfully for Stock: DAL
+2020-04-28 12:31:44.181889 - INFO - VWAP calculated successfully for Stock: AXP
+2020-04-28 12:31:44.181889 - INFO - VWAP calculated successfully for Stock: V
+2020-04-28 12:31:44.182886 - INFO - VWAP calculated successfully for Stock: AAPL
+2020-04-28 12:31:44.182886 - INFO - VWAP calculated successfully for Stock: GS
+2020-04-28 12:31:44.182886 - INFO - VWAP calculated successfully for Stock: VTI
+2020-04-28 12:31:44.183891 - INFO - VWAP calculated successfully for Stock: SBUX
+2020-04-28 12:32:15.050468 - INFO - Successfully opened and read data from stocks.csv
+2020-04-28 12:32:15.050468 - INFO - Adding Stock: JPM to data dictionary.
+2020-04-28 12:32:15.051466 - INFO - Adding Stock: F to data dictionary.
+2020-04-28 12:32:15.051466 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.051466 - INFO - Adding Stock: DIS to data dictionary.
+2020-04-28 12:32:15.051466 - INFO - Adding Stock: DAL to data dictionary.
+2020-04-28 12:32:15.052464 - INFO - Adding Stock: AXP to data dictionary.
+2020-04-28 12:32:15.052464 - INFO - Adding Stock: V to data dictionary.
+2020-04-28 12:32:15.052464 - INFO - Stock: DIS already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.053461 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.053461 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.053461 - INFO - Adding Stock: AAPL to data dictionary.
+2020-04-28 12:32:15.053461 - INFO - Adding Stock: GS to data dictionary.
+2020-04-28 12:32:15.054458 - INFO - Adding Stock: VTI to data dictionary.
+2020-04-28 12:32:15.054458 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.054458 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.055455 - INFO - Stock: V already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.055455 - INFO - Stock: F already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.055455 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.055455 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.056452 - INFO - Adding Stock: SBUX to data dictionary.
+2020-04-28 12:32:15.056452 - INFO - Stock: SBUX already exists in data dictionary, appending information accordingly.
+2020-04-28 12:32:15.056452 - INFO - VWAP calculated successfully for Stock: JPM
+2020-04-28 12:32:15.057450 - INFO - VWAP calculated successfully for Stock: F
+2020-04-28 12:32:15.057450 - INFO - VWAP calculated successfully for Stock: DIS
+2020-04-28 12:32:15.057450 - INFO - VWAP calculated successfully for Stock: DAL
+2020-04-28 12:32:15.058447 - INFO - VWAP calculated successfully for Stock: AXP
+2020-04-28 12:32:15.058447 - INFO - VWAP calculated successfully for Stock: V
+2020-04-28 12:32:15.058447 - INFO - VWAP calculated successfully for Stock: AAPL
+2020-04-28 12:32:15.058447 - INFO - VWAP calculated successfully for Stock: GS
+2020-04-28 12:32:15.059444 - INFO - VWAP calculated successfully for Stock: VTI
+2020-04-28 12:32:15.059444 - INFO - VWAP calculated successfully for Stock: SBUX
+2020-04-28 12:32:15.059444 - INFO - Getting Stock data for: JPM
+2020-04-28 12:32:15.804957 - INFO - Getting Stock data for: F
+2020-04-28 12:32:16.671298 - INFO - Getting Stock data for: DIS
+2020-04-28 12:32:17.373083 - INFO - Getting Stock data for: DAL
+2020-04-28 12:32:18.022065 - INFO - Getting Stock data for: AXP
+2020-04-28 12:32:18.880723 - INFO - Getting Stock data for: V
+2020-04-28 12:32:19.878612 - INFO - Getting Stock data for: AAPL
+2020-04-28 12:32:20.711089 - INFO - Getting Stock data for: GS
+2020-04-28 12:32:21.438693 - INFO - Getting Stock data for: VTI
+2020-04-28 12:32:22.267111 - INFO - Getting Stock data for: SBUX
+2020-04-28 12:32:22.997481 - INFO - Email is enabled - preparing to send.
+2020-04-28 16:08:52.608148 - INFO - Successfully opened and read data from stocks.csv
+2020-04-28 16:08:52.608148 - INFO - Adding Stock: JPM to data dictionary.
+2020-04-28 16:08:52.608148 - INFO - Adding Stock: F to data dictionary.
+2020-04-28 16:08:52.609147 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.609147 - INFO - Adding Stock: DIS to data dictionary.
+2020-04-28 16:08:52.609147 - INFO - Adding Stock: DAL to data dictionary.
+2020-04-28 16:08:52.609147 - INFO - Adding Stock: AXP to data dictionary.
+2020-04-28 16:08:52.610143 - INFO - Adding Stock: V to data dictionary.
+2020-04-28 16:08:52.610143 - INFO - Stock: DIS already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.610143 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.611140 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.611140 - INFO - Adding Stock: AAPL to data dictionary.
+2020-04-28 16:08:52.611140 - INFO - Adding Stock: GS to data dictionary.
+2020-04-28 16:08:52.611140 - INFO - Adding Stock: VTI to data dictionary.
+2020-04-28 16:08:52.612137 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.612137 - INFO - Stock: JPM already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.612137 - INFO - Stock: V already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.613135 - INFO - Stock: F already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.613135 - INFO - Stock: DAL already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.613135 - INFO - Stock: AXP already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.614133 - INFO - Adding Stock: SBUX to data dictionary.
+2020-04-28 16:08:52.614133 - INFO - Stock: SBUX already exists in data dictionary, appending information accordingly.
+2020-04-28 16:08:52.614133 - INFO - VWAP calculated successfully for Stock: JPM
+2020-04-28 16:08:52.615129 - INFO - VWAP calculated successfully for Stock: F
+2020-04-28 16:08:52.615129 - INFO - VWAP calculated successfully for Stock: DIS
+2020-04-28 16:08:52.615129 - INFO - VWAP calculated successfully for Stock: DAL
+2020-04-28 16:08:52.615129 - INFO - VWAP calculated successfully for Stock: AXP
+2020-04-28 16:08:52.616127 - INFO - VWAP calculated successfully for Stock: V
+2020-04-28 16:08:52.616127 - INFO - VWAP calculated successfully for Stock: AAPL
+2020-04-28 16:08:52.616127 - INFO - VWAP calculated successfully for Stock: GS
+2020-04-28 16:08:52.617124 - INFO - VWAP calculated successfully for Stock: VTI
+2020-04-28 16:08:52.617124 - INFO - VWAP calculated successfully for Stock: SBUX
+2020-04-28 16:08:52.617124 - INFO - Getting Stock data for: JPM
+2020-04-28 16:08:53.311692 - INFO - Getting Stock data for: F
+2020-04-28 16:08:54.618670 - INFO - Getting Stock data for: DIS
+2020-04-28 16:08:55.288656 - INFO - Getting Stock data for: DAL
+2020-04-28 16:08:55.989768 - INFO - Getting Stock data for: AXP
+2020-04-28 16:08:56.679616 - INFO - Getting Stock data for: V
+2020-04-28 16:08:57.401137 - INFO - Getting Stock data for: AAPL
+2020-04-28 16:08:58.662544 - INFO - Getting Stock data for: GS
+2020-04-28 16:08:59.373520 - INFO - Getting Stock data for: VTI
+2020-04-28 16:09:00.047730 - INFO - Getting Stock data for: SBUX
+2020-04-28 16:09:00.842875 - INFO - Email is enabled - preparing to send.

@@ -7,9 +7,6 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 
-from log_utils import get_logger
-
-logger = get_logger()
 
 class Emailer():
     def sendmail(self,data,to,subject,attachment=None):
@@ -42,6 +39,5 @@ class Emailer():
             server.login(gmail_user,gmail_password)
             server.sendmail(sent_from,to, msg.as_string())
             server.close()
-            logger.info('Email successfully sent to {}'.format(to))
         except Exception as e:
-            logger.error('Something went wrong - {}'.format(e))
+            print('ERROR Sending the Email: {}'.format(e))
