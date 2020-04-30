@@ -10,8 +10,8 @@ from email import encoders
 
 class Emailer():
     def sendmail(self,data,to,subject,attachment=None):
-        gmail_user = 'python.autoemail29@gmail.com'
-        gmail_password = '@utoPython7'
+        gmail_user = '************'
+        gmail_password = '************'
 
         sent_from = gmail_user
 
